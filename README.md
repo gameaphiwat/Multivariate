@@ -21,3 +21,5 @@ edit files (markdown หารูปที่เซฟไว้) .md => Markdown
 .[ ]. squre brackets คำอธิบายรูป
 () parenthese 
 !.[kku logo].(KKUlogo.png) ชื่อไฟล์
+36060.jpg
+!.[36060.jpg].(36060.jpg)
